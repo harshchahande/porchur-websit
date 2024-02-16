@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(177, 249, 225);
+}
+
+/* <!-- ----------Nav Bar-------- --> */
+.nav1 {
+  width: 100%;
+
+  background-color: blue;
+}
+.offcanvas-title {
+  color: green;
+}
+.p1:hover {
+  color: black;
+}
+
+.p2:hover {
+  color: red;
+}
+.p3 {
+  color: green;
+}
+
+/* ------------ */
+.a1 {
+  padding-left: 84%;
+}
+.i {
+  width: 95%;
+  background-color: white;
+  display: flex;
+}
+.box1 {
+  width: 50%;
+  padding-top: 8%;
+
+  padding-left: 20%;
+}
+.box2 {
+  text-align: center;
+  line-height: 220%;
+  margin: 9%;
+  width: 25%;
+  background-color: rgb(138, 198, 194);
+  border-radius: 50%;
+  font-size: 230%;
+}
+/* -------section 2---- */
+.i {
+  margin-bottom: 3%;
+}
+
+/*  <!-- ---------------section 3------------- --> */
+.section3 {
+  width: 96%;
+}
+table {
+  background-color: white;
+}

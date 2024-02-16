@@ -1,0 +1,393 @@
+
+/* -------- -----------Section1----------- -- */
+.b1{
+    font-size: 169x;
+    position: absolute;
+    top: 20px;
+    left: 4rem;
+    background-color: transparent;
+    border: none;
+
+}
+/*  <!-- -----------Section2----------- --> */
+.b2{
+    position: absolute;
+    top: 20px;
+    left: 88rem;
+    background-color: transparent;
+    border: none;
+}
+.h1{
+    position: absolute;
+    top: 20px;
+    left: 40rem;
+    background-color: transparent;
+    border: none;
+}
+/*  <!-- -----------Section3----------- --> */
+
+
+.box{
+    position:absolute;
+    top: 164px;
+    left: 151px;
+    
+   
+    background-color: transparent;
+    border-radius: 4px;
+}
+.h2{
+    font-size: 90px;
+}
+.button1{
+    background-color: transparent;
+    color: white;
+    border: solid white;
+    width: 270px;
+    height: 55px;
+
+}
+/*  <!-- -----------video section end----------- --> */
+/*<!-- ----------- section 4----------- --> */
+.hidde{
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.box1{
+    width: 350px;
+    height: 250px;
+    background-image: url(img/s5.webp);
+    background-size: cover;
+    border-radius: 15px;
+    
+   
+}
+.arro1{
+    margin-left: 80px;
+}
+.box2{
+    width: 350px;
+    height: 250px;
+    background-image: url(img/c2.webp);
+    background-size: cover;
+    border-radius: 15px;
+}
+.box3{
+    width: 350px;
+    height: 250px;
+    background-image: url(img/c.webp);
+    background-size: cover;
+    border-radius: 15px;
+}
+.p1{
+    margin-top: 180px;
+}
+.box1:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+.box2:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+.box3:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+/* <!-- ----------- section 5----------- --> */
+.hidde1{
+    overflow: hidden;
+    border-radius: 15px;
+}
+.cols1{
+    position: relative;
+    overflow: hidden;
+   
+    
+}
+
+.cols1:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+.ss1{
+    border-radius: 15px;
+}
+.l1{
+    position:absolute;
+    top: 500px;
+    left: 57px;
+   
+}
+.l2{
+    position:absolute;
+    top: 470px;
+    left: 57px;
+}
+
+.bu1{
+    width: 450px;
+    height: 60px;
+
+}
+.bu2{
+    width: 450px;
+    height: 60px;
+    background-color: transparent;
+    border: 3px solid white;
+
+
+}
+.i1{
+    position:relative;
+    bottom: 462px;
+    left: -24px;
+}
+.i2{
+    position:relative;
+    bottom: 430px;
+    left: -24px;
+
+}
+.ss1{
+    border-radius: 20px;
+}
+    .cols2{
+        position: relative;
+        overflow: hidden;
+        border-radius: 50px;
+        
+    }
+
+/* <!-- ----------- section 6----------- --> */
+.p2{
+    font-size: 14px;
+    margin-left: 210px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
+}
+.cols7{
+    border-top-left-radius:20px ;
+    border-bottom-left-radius:20px ;
+}
+.cols8 img{
+   border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;
+}
+/* <!-- ----------- section 7----------- --> */
+.cols9{
+    margin-top: 150px;
+    margin-left: 100px;
+   
+}
+.cols11{
+    padding-left: 120px;
+
+}
+.input1{
+    width: 450px;
+    height: 55px;
+    border: 2px solid black;
+}
+.cols10{
+    width: 800px;
+    margin-top: 150px;
+}
+
+/* <!-- ----------- section 9----------- --> */
+.section9{
+    width: 1250px;
+    height: 600px;
+}
+.carbox1{
+    width: 410px;
+    height:590px ;
+}
+.insta1{
+    width: 405px;
+    height: 370px;
+    background-image: url(img/cc1.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.insta2{
+    width: 197px;
+    height: 200px;
+    background-image: url(img/cc2.jpg);
+    background-size: cover;
+    float: left;
+    margin-right: 9px;
+   
+    
+   
+}
+.insta3{
+    width: 197px;
+    height: 200px;
+    background-image: url(img/cc3.jpeg);
+    background-size: cover;
+    float: left;
+    
+   
+    
+}
+
+/* ------------------------ */
+ .carbox2{
+    width: 410px;
+    height:590px ;
+
+}
+.insta4{
+    width: 197px;
+    height: 200px;
+    background-image: url(img/cc3.jpeg);
+    background-size: cover;
+    float: left;
+   
+    
+} 
+.insta5{
+    width: 197px;
+    height: 200px;
+    background-image: url(img/cc2.jpg);
+    background-size: cover;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  
+}
+.insta6{
+    width: 405px;
+    height: 370px;
+    background-image: url(img/cc1.jpg);
+    background-size: cover;
+   clear: both;
+ 
+} 
+/* ------------------------------ */
+ 
+.carbox3{
+    width: 410px;
+    height:590px ;
+}
+.insta7{
+    width: 400px;
+    height: 370px;
+    background-image: url(img/cc1.jpg);
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.insta8{
+    width: 197px;
+    height: 200px;
+    background-image: url(img/cc2.jpg);
+    background-size: cover;
+    float: left;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+.insta9{
+    width: 195px;
+    height: 200px;
+    background-image: url(img/cc3.jpeg);
+    background-size: cover;
+    float: left;
+    margin-top: 4px;
+    
+}
+
+
+/* <!-- ----------- section 10----------- --> */
+.hidde4{
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+.box4{
+    width: 350px;
+    height: 350px;
+    background-image: url(img/d1\ PCNA-Experience1_1200x1200.webp);
+    background-size: cover;
+    border-radius: 15px;
+    
+   
+}
+.arro2{
+    margin-left: 80px;
+}
+.box5{
+    width: 350px;
+    height: 350px;
+    background-image: url(img/d2\ PCNA-Approved_1200x1200.webp);
+    background-size: cover;
+    border-radius: 15px;
+}
+.box6{
+    width: 350px;
+    height: 350px;
+    background-image: url(img/d3\ PCNA-MoSpo_1200x1200.webp);
+    background-size: cover;
+    border-radius: 15px;
+}
+.p10{
+    margin-top: 250px;
+}
+.box4:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+.box5:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+.box6:hover{
+    transform: scale(1.1,1.1);
+    transition: 1s;
+}
+
+/* <!-- ----------- section 11----------- --> */
+.img1{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.b5{
+    width: 310px;
+    background-color: white;
+}
+.b5:hover{
+    background-color:#BEBEBD ;
+}
+.b6{
+    width:55px;
+    background-color: white;
+}
+.b6:hover{
+    background-color:#BEBEBD ;
+}
+.a1{
+    color: white;
+}
+.a1:hover{
+    color: red;
+}
+.p3{
+    color: white;
+}
+.p3:hover{
+    color: white;
+}
+/* ---------------company------------- */
+ul{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: red;
+}
